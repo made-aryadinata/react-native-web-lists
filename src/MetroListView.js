@@ -11,7 +11,7 @@
 'use strict';
 
 import React from 'react';
-import { ListView, RefreshControl, ScrollView } from 'react-native';
+import { ListView, RefreshControl, ScrollView } from 'react-native-web';
 
 const invariant = require('fbjs/lib/invariant');
 
